@@ -94,6 +94,11 @@ var store = [{
         "tags": [],
         "url": "https://keepaliveit.co.uk/services/business/database-management",
         "teaser":null},{
+        "title": "GDPR compliance consultancy for I.T systems",
+        "excerpt":"GDPR compliance  ","categories": [],
+        "tags": [],
+        "url": "https://keepaliveit.co.uk/services/business/gdpr-compliance-for-it-systems",
+        "teaser":null},{
         "title": "I.T Operations Consultancy",
         "excerpt":"safeguarding your business against the latest cyber threats and vulnerabilities.   I.T Operations Consultancy  Secure, operational, and robust infrastructure is crucial for businesses who want their business software to be resilient and available.   How Keep-Alive I.T’s I.T Operations Consultancy services can benefit your business   I.T Procurement  Hardware Procurement   Software Procurement   Cloud Native Consultancy        Tailored I.T Consultancy by Industry or Business Type      Looking for I.T consultancy services tailored towards your business industry? Browse for your industry or business type to get tailored I.T consultancy specific to your business:                                                                          ","categories": [],
         "tags": [],
