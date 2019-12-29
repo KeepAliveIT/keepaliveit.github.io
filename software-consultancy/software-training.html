@@ -128,7 +128,7 @@
         <ul class="header-info-nav">
           <li>
             <i class="fas fa-file-alt"></i>
-            <a href="#">Pre-Consultation Document</a>
+            <a href="assets/downloads/pre-consultation-document.pdf" download="pre-consultation-document.pdf">Pre-Consultation Document</a>
           </li>
         </ul>
       </div>
@@ -279,7 +279,7 @@
 <!-- end custom footer snippets -->
         <div>
   <h3>What does Keep-Alive I.T do?</h3>
-  <p style="font-size: 0.8em;">We're a universal I.T Consultation business who has over a decade of specialist experience in keeping I.T systems operational. Hardware installation, Agile Software Development, and everything that lies in-between to keep I.T systems operational.
+  <p style="font-size: 0.8em;">We're a universal I.T Consultation business who has over a decade of specialist experience in keeping I.T systems functional & operational. Hardware installation, Agile Software Development, and everything that lies in-between to keep I.T systems operational.
   Whether you're a small business who needs help designing & setting up a small Local Area Network (LAN), a medium sized company who wants to start selling a new range of products online, or a FTSE 100 company who requires expertise advice with a Cloud
   migration strategy; We plan, consult, and implement I.T solutions for organisations of all size - no matter their technical literacy or employee count.</p>
 
@@ -334,9 +334,9 @@
 <script>
 // Instanciating InstantSearch.js with Algolia credentials
 const search = instantsearch({
-  appId: 'QB6HVGBSBA',
-  apiKey: '9d5014e5bbc77372547bce778dfa5663',
-  indexName: 'minimal_mistakes',
+  appId: 'WH8TNK4NRQ',
+  apiKey: '2e08671f6bfde78b06867afdf120a728',
+  indexName: 'site',
   searchParameters: {
     restrictSearchableAttributes: [
       'title',
@@ -353,7 +353,7 @@ const hitTemplate = function(hit) {
   return `
     <div class="list__item">
       <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
-        <h2 class="archive__item-title" itemprop="headline"><a href="/${url}">${title}</a></h2>
+        <h2 class="archive__item-title" itemprop="headline"><a href="${url}">${title}</a></h2>
         <div class="archive__item-excerpt" itemprop="description">${content}</div>
       </article>
     </div>
