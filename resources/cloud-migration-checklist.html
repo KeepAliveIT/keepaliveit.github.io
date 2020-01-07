@@ -41,7 +41,7 @@
 
 
 
-  <meta property="article:published_time" content="2020-01-06T18:54:20-05:00">
+  <meta property="article:published_time" content="2020-01-06T19:43:55-05:00">
 
 
 
@@ -389,6 +389,22 @@ search.start();
 
 
 
+
+<script>
+    $(document).ready(function(){
+        $('.animatedNumber').each(function () {
+            $(this).prop('Counter',0).animate({
+                Counter: $(this).text()
+            }, {
+                duration: 2300,
+                easing: 'swing',
+                step: function (now) {
+                    $(this).text(Math.ceil(now));
+                }
+            });
+        });
+    });
+</script>
 
   </body>
 </html>
