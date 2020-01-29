@@ -45,7 +45,7 @@ var store = [{
         "url": "https://keepaliveit.co.uk/it-consultation/cloud/considerations-for-a-highly-scalable-cloud/",
         "teaser":null},{
         "title": "How to move large amounts of data to the Cloud",
-        "excerpt":" ","categories": ["Cloud"],
+        "excerpt":"Strategies for moving large amounts of data to the Cloud   Considerations:     Is your internet connection up to the task?   Is your data being migrated from another Cloud?   Most Cloud providers will have ultra fast internet connectivity, meaning your   ","categories": ["Cloud"],
         "tags": [],
         "url": "https://keepaliveit.co.uk/it-consultation/cloud/how-to-move-large-amounts-of-data-to-the-cloud/",
         "teaser":null},{
