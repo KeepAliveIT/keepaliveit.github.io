@@ -40,7 +40,7 @@ var store = [{
         "url": "https://keepaliveit.co.uk/it-consultation/cloud/considerations-for-a-highly-available-cloud/",
         "teaser":null},{
         "title": "Considerations for a Highly Scalable Cloud",
-        "excerpt":" ","categories": ["Cloud"],
+        "excerpt":"A highly scalable Cloud  ","categories": ["Cloud"],
         "tags": [],
         "url": "https://keepaliveit.co.uk/it-consultation/cloud/considerations-for-a-highly-scalable-cloud/",
         "teaser":null},{
@@ -55,12 +55,12 @@ var store = [{
         "url": "https://keepaliveit.co.uk/it-consultation/cloud/what-is-the-cloud-and-what-can-it-do-for-me/",
         "teaser":null},{
         "title": "Are mobile devices a threat to my business?",
-        "excerpt":" ","categories": ["Cyber-Security"],
+        "excerpt":"With the rise of Bring Your Own Device (BYOD) some business owners are worried that their business may be more vulnerable.  ","categories": ["Cyber-Security"],
         "tags": [],
         "url": "https://keepaliveit.co.uk/it-consultation/cyber%20security/secure-mobile-devices/",
         "teaser":null},{
         "title": "What cyber security precautions should my business take?",
-        "excerpt":" ","categories": ["Cyber-Security"],
+        "excerpt":"Your business should take the following cyber security precautions.   Develop a Risk Plan. Develop a  ","categories": ["Cyber-Security"],
         "tags": [],
         "url": "https://keepaliveit.co.uk/it-consultation/cyber%20security/what-cyber-security-precautions-should-my-business-take/",
         "teaser":null},{
@@ -100,7 +100,7 @@ var store = [{
         "url": "https://keepaliveit.co.uk/news/keep-alive-it-introduction/",
         "teaser":null},{
         "title": "Keep-Alive I.T is now an Approved Sell2Wales Partner.",
-        "excerpt":"We’re now an approved Sell2Wales partner     ","categories": ["news"],
+        "excerpt":"We’re now an approved Sell2Wales partner     We have now become an approved Sell2Wales partner for working in contracted positions in Wales.  ","categories": ["news"],
         "tags": [],
         "url": "https://keepaliveit.co.uk/news/keep-alive-it-sell-to-wales-partnership/",
         "teaser":null},{
