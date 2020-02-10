@@ -59,8 +59,8 @@ var store = [{
         "tags": [],
         "url": "https://keepaliveit.co.uk/it-consultation/cyber%20security/secure-mobile-devices/",
         "teaser":null},{
-        "title": "What cyber security precautions should my business take?",
-        "excerpt":"Your business should take the following cyber security precautions.   Develop a Risk Plan. Develop a  ","categories": ["Cyber-Security"],
+        "title": "What Cyber Security Precautions Should My Business Take?",
+        "excerpt":"As a business owner, keeping your business information safe and away from prying eyes is crucial.   Your business should take the following Cyber Security precautions.   Develop a Risk Plan. Develop a  ","categories": ["Cyber-Security"],
         "tags": [],
         "url": "https://keepaliveit.co.uk/it-consultation/cyber%20security/what-cyber-security-precautions-should-my-business-take/",
         "teaser":null},{
@@ -140,7 +140,7 @@ var store = [{
         "url": "https://keepaliveit.co.uk/services/gdpr-compliance-for-it-systems",
         "teaser":null},{
         "title": "Consumer I.T Operations Consultancy Services for the Home",
-        "excerpt":"                                               Home                             /                            Consumer I.T Operations Consultancy Services for the Home                  Save money &amp; make I.T assets more reliable with the help of Keep-Alive I.T  Home automation   Smart home. Smart you.   Plex server for the home   Backup solutions     Frequently Asked Questions (FAQs):                How much do your Software &amp; Software Development Consultancy Services cost?                      Our prices start at £300 per day                             How much time do your Software &amp; Software Development Consultancy Services take to complete?                     It is impossible to give a precise time-frame for I.T related work but we will aim to give a time estimate                             Do you offer retainer contracts for software maintanence that could be required in future?                     Of course! We understand all software requires patching to ensure security is                  ","categories": [],
+        "excerpt":"                                               Home                             /                            Consumer I.T Operations Consultancy Services for the Home                  Save money &amp; make I.T assets more reliable with the help of Keep-Alive I.T  Home automation   Smart home. Smart you.   Plex server for the home   Backup solutions     Frequently Asked Questions (FAQs):                How much do your Software &amp; Software Development Consultancy Services cost?                      Our prices start at £300 per day                             How much time do your Software &amp; Software Development Consultancy Services take to complete?                     It is impossible to give a precise time-frame for I.T related work but we will aim to give a time estimate                             Do you offer retainer contracts for software maintanence that could be required in future?                     Of course! We understand all software requires patching to ensure security is                 ","categories": [],
         "tags": [],
         "url": "https://keepaliveit.co.uk/it-operations-consultancy-consumer",
         "teaser":null},{
