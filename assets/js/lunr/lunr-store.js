@@ -55,7 +55,7 @@ var store = [{
         "url": "https://keepaliveit.co.uk/it-consultation/cloud/what-is-the-cloud-and-what-can-it-do-for-me/",
         "teaser":null},{
         "title": "Are mobile devices a threat to my business?",
-        "excerpt":"With the rise of Bring Your Own Device (BYOD) some business owners are worried that their business may be more vulnerable.  ","categories": ["Cyber-Security"],
+        "excerpt":"With the rise of Bring Your Own Device (BYOD) some business owners are worried that their business may be more vulnerable to Cyber attacks.  ","categories": ["Cyber-Security"],
         "tags": [],
         "url": "https://keepaliveit.co.uk/it-consultation/cyber%20security/secure-mobile-devices/",
         "teaser":null},{
@@ -65,7 +65,7 @@ var store = [{
         "url": "https://keepaliveit.co.uk/it-consultation/cyber%20security/what-cyber-security-precautions-should-my-business-take/",
         "teaser":null},{
         "title": "Which RAID level should I choose and how much will it cost?",
-        "excerpt":"RAID (redundant array of independent disks) protects against hard disk failure   RAID spreads your data across several hard drives so it can be reconstructed even if one of the drives fails. RAID should be used alongside a separate backup system.   ","categories": ["Hardware"],
+        "excerpt":"RAID (redundant array of independent disks) protects against hard disk failure and as the name describes, is a redundancy method.   RAID spreads your data across several hard drives so it can be reconstructed even if one of the drives fails. RAID should be used alongside a separate backup system.   ","categories": ["Hardware"],
         "tags": ["procurement","raid","controller","disk","storage"],
         "url": "https://keepaliveit.co.uk/it-consultation/hardware/which-raid-level-should-i-choose-and-how-much-will-it-cost/",
         "teaser":null},{
@@ -80,7 +80,7 @@ var store = [{
         "url": "https://keepaliveit.co.uk/it-consultation/software%20development/considerations-for-a-highly-available-cloud/",
         "teaser":null},{
         "title": "Modern Webpage Optimisation Techniques for creating Highly Performable Websites",
-        "excerpt":"Caching: Gzip Brotli   Image optimisation   We at Keep-Alive I.T are experts at creating efficient and performant web pages. Please check out our Web Development packages if you need any assistance with this.  ","categories": ["Web"],
+        "excerpt":"Mobile, Desktop, Tablet, Mobile, and other devices but one important factor users of a website expect is speed. If a website is slow, this can result in a bad user experience and a higher bounce rate.   Caching: Gzip Brotli   Image optimisation is probably the most important aspect of optimising a website for performance.   We at Keep-Alive I.T are experts at creating efficient and performant web pages. Please check out our Web Development packages if you need any assistance with this.  ","categories": ["Web"],
         "tags": [],
         "url": "https://keepaliveit.co.uk/it-consultation/web/modern-webpage-optimisation-techniques/",
         "teaser":null},{
